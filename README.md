@@ -1,7 +1,6 @@
 # MyCode 프로젝트 개요
 
 <img width="49%" alt="image" src="https://github.com/user-attachments/assets/4308e330-d32e-4031-9db7-23ddfe374b56" /> <img width="49%" alt="image" src="https://github.com/user-attachments/assets/caf1d91c-362c-495b-9d76-e028a03b39e5" />
-<img width="49%" alt="image" src="https://github.com/user-attachments/assets/4308e330-d32e-4031-9db7-23ddfe374b56" /> <img width="49%" alt="image" src="https://github.com/user-attachments/assets/caf1d91c-362c-495b-9d76-e028a03b39e5" />
 
 **MyCode**는 사용자 취향 기반 공연·전시·축제 추천 서비스입니다.<br>
 사용자의 성향 테스트 결과를 바탕으로 전시, 공연, 축제, 행사 등 다양한 문화 콘텐츠를 맞춤 추천합니다.<br>
